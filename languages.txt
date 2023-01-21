@@ -1,0 +1,3 @@
+Python would be my favorite programming language among all languages simply because of its simplicity, which allows me to think of the logical flow of the programs rather than spend time thinking of the syntax. Furthermore, the vast documentation of every function and module also helps in easy debugging of the script.
+
+Yes, python is my most proficient programming language.
